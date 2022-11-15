@@ -1,0 +1,29 @@
+{
+  "name": "namename",
+  "version": "0.0.0",
+  "description": "Random CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanhortle/random.git"
+  },
+  "author": "Allan Hortle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanhortle/random/issues"
+  },
+  "homepage": "https://github.com/allanhortle/random#readme",
+  "devDependencies": {
+    "@types/minimist": "^1.2.2",
+    "@types/node": "^18.11.9",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "minimist": "^1.2.7",
+    "wordnet": "^2.0.0"
+  }
+}
