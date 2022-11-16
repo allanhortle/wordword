@@ -18,13 +18,23 @@ Examples:
   wordword "release/[adjective:sponge]-[animal:sponge]"
 
 Lists:
+  adjective-buzzword
   adjective
+  adverb-buzzword
+  adverb
   animal
+  article
   color
-  buzzword-noun
-  buzzword-verb
-  buzzword-adjective
-  buzzword-adverb
+  conjunction
+  determiner
+  interjection
+  noun-buzzword
+  noun
+  number-cardinal
+  preposition
+  pronoun
+  verb-buzzword
+  verb
 
 Case Types:
   camel
@@ -48,3 +58,7 @@ Options:
 ```
 
 
+# Data Sources
+- [Semantic Fauna](https://github.com/92green/semantic-fauna)
+- [www.wordfrequency.info](https://www.wordfrequency.info/)
+- [The Corporate B.S. Generator](https://www.atrixnet.com/bs-generator.html)
