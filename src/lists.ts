@@ -4,6 +4,7 @@ import path from 'path';
 const words = {
     adjective: '../lists/adjective.txt',
     animal: '../lists/animal.txt',
+    color: '../lists/color.txt',
     'buzzword-noun': '../lists/buzzword-noun.txt',
     'buzzword-verb': '../lists/buzzword-verb.txt',
     'buzzword-adjective': '../lists/buzzword-adjective.txt',
